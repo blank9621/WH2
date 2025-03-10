@@ -6,6 +6,5 @@
 
 using namespace std;
 
-#define maxdays = 30 , mindays = 1;
 
 
